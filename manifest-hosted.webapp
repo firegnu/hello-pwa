@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "name": "Firefox OS Boilerplate App",
+  "name": "pwa hosted app",
   "launch_path": "/hello-pwa/index.html",
-  "description": "Boilerplate Firefox OS app with example use cases to get started",
+  "description": "a simple app transparent from PWA to hosted app",
   "icons": {
     "16": "/hello-pwa/images/logo16.png",
     "32": "/hello-pwa/images/logo32.png",
